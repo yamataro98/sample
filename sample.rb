@@ -3,5 +3,3 @@ def hello
 end
 
 hello
-
-aa
